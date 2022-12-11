@@ -1,0 +1,53 @@
+body{
+
+    background-color:  rgb(59, 54, 51);
+}
+
+#header{
+display: flex;
+justify-content: space-between;
+font-family: 'Kanit', sans-serif;
+background-color: rgb(40, 37, 35);
+color: rgb(181, 135, 8);
+height: 85px;
+margin: -8px -8px 0 -8px;
+box-shadow: 1px 1px 3px rgb(51, 51, 51);
+padding: 8px 0;
+
+}
+
+#navigation ul{
+
+    list-style: none;
+    margin-right: 250px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-right: 115px;
+}
+
+#navigation ul h4{
+
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:bold;
+}
+
+#navigation ul li{
+margin-left: 40px;
+text-shadow: 1px 1px 6px rgb(0, 0, 0);
+
+
+}
+
+#Logo h2{
+
+    text-transform: uppercase;
+    font-size: 30px;
+    text-shadow: 1px 1px 6px rgb(0, 0, 0);
+}
+
+#Logo{
+
+    margin-left: 100px;
+}
